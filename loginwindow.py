@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 from Pressure_drop_calculations import main_application
-
 # Declaration of the function for user ID and password
 def login():
     #user_id = entry_user_id.get()
